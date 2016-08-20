@@ -14,6 +14,7 @@ gem 'haml'
 gem 'bootstrap-sass'
 gem 'hirb'
 gem 'simple_form'
+gem 'devise'
 
 
 group :development, :test do
