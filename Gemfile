@@ -15,6 +15,7 @@ gem 'bootstrap-sass'
 gem 'hirb'
 gem 'simple_form'
 gem 'devise'
+gem 'paperclip'
 
 
 group :development, :test do
